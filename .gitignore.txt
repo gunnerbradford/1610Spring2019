@@ -1,4 +1,4 @@
-llibrary/
+library/
 temp/
 obj/
 build/
